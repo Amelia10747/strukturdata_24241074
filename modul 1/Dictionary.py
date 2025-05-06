@@ -26,7 +26,7 @@ data['status'] = False
 print(data['status'])
 
 # Mengubah nilai item dictionary dengan .update
-data.update({"sosmed" : {"twitter" : "@Elsa"}})
+data.update({"sosmed" : {"twitter" : "amalia"}})
 
 # cek hasil perubahan
 print(data['sosmed']['twitter'])
